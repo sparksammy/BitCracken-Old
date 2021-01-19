@@ -1,4 +1,4 @@
-BitCracken
+# BitCracken *EVEN MORE DEPRECATED*
 
 Cracking insecure BTC private keys with a large amount of words.
 
